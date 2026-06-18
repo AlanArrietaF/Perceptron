@@ -55,3 +55,8 @@ R,G,B,Clase
 75,138,45,limon
 ...
 ```
+##  Autor
+
+Alan Arrieta UNAM ICO
+_______________________________
+© 2026 - Perceptron Manzanas-Limones
